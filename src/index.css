@@ -1,0 +1,14 @@
+ body {
+  font-family: Inter, Arial;
+  box-sizing: border-box;
+}
+
+#root {
+  min-height: 100vh;
+  margin: 15px;
+  border: 2px solid hsla(0, 0%, 50%, 0.295);
+  border-radius: 6px;
+  background-color: #FAFAF8;
+}
+
+

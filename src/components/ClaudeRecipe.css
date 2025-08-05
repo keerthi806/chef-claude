@@ -1,0 +1,16 @@
+.recipe-container {
+  color: #475467;
+  line-height: 28px;
+  font-size: 1.125rem;
+  font-weight: 400;
+  margin-top: 20px;
+}
+
+.recipe-container h2 {
+  color: rgba(0, 0, 0, 0.755);
+}
+
+.recipe-container ul li,
+.recipe-container ol li {
+  margin-bottom: 8px;
+}
